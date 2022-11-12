@@ -1,0 +1,11 @@
+.titulo{
+    background-color: #7DE5ED;
+    color: #5DA7DB;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+.titulo2{
+    font-family: 'Abril Fatface', cursive;
+}
